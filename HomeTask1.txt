@@ -4,3 +4,6 @@ User stories
 AGILE metrics or KPI – key performance indicators
 Scrums and sprints
 The Lean values
+
+5 least interesting things you know from the lecture
+Fibonacci scale
